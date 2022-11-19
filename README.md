@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Stack, Zixi Ling, a dentist and part-time developer.
+My name is Stack, Zixi Ling, a dentist and amateur developer.
 
 - 📫 How to reach me: 
   * Telegram: [@lingzi99](https://t.me/lingzi99)
