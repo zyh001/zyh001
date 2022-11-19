@@ -7,6 +7,7 @@ My name is Stack, Zixi Ling, a dentist and part-time developer.
   * Email: stackzhao@gmail.com
   
 ![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat&logo=windows&logoColor=ffffff)
+![Debian 11.5](https://img.shields.io/badge/Debian%2011.5-ce1a4c?style=flat&logo=debian&logoColor=ffffff)
 ![macOS Monterey](https://img.shields.io/badge/macOS%20Monterey-c934ac?style=flat&logo=macos&logoColor=ffffff)
 ![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat&logo=android&logoColor=ffffff)
 ![iOS 16](https://img.shields.io/badge/iOS%2016-ffffff?style=flat&logo=ios&logoColor=000000)
