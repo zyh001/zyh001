@@ -2,10 +2,15 @@
 
 My name is Stack, Zixi Ling, a dentist and amateur developer.
 
+- 🌱 I am currently learning the Go language.
+- 👀 I am interested in machine learning.
 - 📫 How to reach me: 
   * Telegram: [@lingzi99](https://t.me/lingzi99)
   * Email: stackzhao@gmail.com
-  
+
+![GitHub followers](https://img.shields.io/github/followers/zyh001?label=follower&logo=github&style=flat)
+![GitHub User's stars](https://img.shields.io/github/stars/zyh001?logo=github&style=flat)
+ 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat&logo=windows&logoColor=ffffff)
 ![Debian 11.5](https://img.shields.io/badge/Debian%2011.5-ce1a4c?style=flat&logo=debian&logoColor=ffffff)
 ![macOS Monterey](https://img.shields.io/badge/macOS%20Monterey-c934ac?style=flat&logo=macos&logoColor=ffffff)
